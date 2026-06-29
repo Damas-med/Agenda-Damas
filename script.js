@@ -5,7 +5,7 @@
 
 const CONFIG = {
   // Cole aqui o ID da sua planilha Google (veja o README)
-  SHEET_ID: "1dDq05E2JkVCEnHK1I8JrVmVYoSP1wPEv7TOXDBn8x5g",
+  SHEET_ID: "1PHAwOjY8rtbpuULZiMR9wJpVw9lWjjxfuW8gIWW6TK4",
 
   // Nome da aba da planilha
   SHEET_NAME: "Eventos",
